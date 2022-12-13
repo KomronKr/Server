@@ -1,0 +1,11 @@
+GET http://localhost:8080/fruits  HTTP/1.1
+
+###
+
+POST http://localhost:8080/fruits
+ 
+Qiwi
+
+###
+
+DELETE http://localhost:8080/fruits?index=1
